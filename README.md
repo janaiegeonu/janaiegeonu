@@ -47,24 +47,53 @@ Currently focused on strengthening my expertise in:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=go,git,linux,vscode,github,bash" />
+<a href="https://go.dev/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=go" />
+</a>
+
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=git" />
+</a>
+
+<a href="https://www.linux.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linux" />
+</a>
+
+<a href="https://code.visualstudio.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=vscode" />
+</a>
+
+<a href="https://github.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://www.gnu.org/software/bash/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=bash" />
+</a>
 
 </p>
-
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=janaiegeonu&show_icons=true" />
-  
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janaiegeonu&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=janaiegeonu&show_icons=true&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=janaiegeonu&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=janaiegeonu&hide_border=true" />
 </p>
 
 ## 🏆 Achievements & Milestones
 
+## 🏆 GitHub Trophies
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=janaiegeonu&theme=github-dark-blue&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=janaiegeonu&theme=tokyonight&no-frame=true&column=6" />
 </p>
 
 ## 🔥 Contribution Streak
