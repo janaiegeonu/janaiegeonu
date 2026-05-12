@@ -74,25 +74,13 @@ Currently focused on strengthening my expertise in:
 </p>
 ---
 
-## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=janaiegeonu&show_icons=true&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=janaiegeonu&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=janaiegeonu&hide_border=true" />
-</p>
 
 ## 🏆 Achievements & Milestones
 
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=janaiegeonu&theme=github-dark-blue&no-frame=true&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=janaiegeonu&theme=algolia&no-frame=true&column=6" />
 </p>
 
 ## 🔥 Contribution Streak
@@ -105,7 +93,7 @@ Currently focused on strengthening my expertise in:
 
 ## 📊 Activity Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=janaiegeonu&theme=github-dark-blue"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=janaiegeonu&theme=github-dark"/>
 
 ## 📚 Currently Learning
 
