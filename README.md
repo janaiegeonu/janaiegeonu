@@ -19,10 +19,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=800&lines=Go+Developer;Backend+Systems+Learner;Building+Scalable+Applications;CLI+%26+Systems+Programming;Always+Learning+New+Things" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=janaiegeonu&label=Profile%20Views&color=1f6feb&style=for-the-badge" />
-</p>
 
+
+<p align="center">
+  <a href="https://github.com/janaiegeonu">
+    <img src="https://komarev.com/ghpvc/?username=janaiegeonu&label=VISITORS&color=0d6efd&style=flat-square" />
+  </a>
+</p>
 
 ---
 
