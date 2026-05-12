@@ -61,23 +61,16 @@ Currently focused on strengthening my expertise in:
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janaiegeonu&layout=compact&theme=github_dark&hide_border=true&border_radius=10" />
 </p>
 
-<!-- TROPHIES -->
-## 🏆 Trophy Cabinet
+## 🏆 Achievements & Milestones
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=janaiegeonu&theme=gruvbox&no-frame=true&no-bg=true&margin-w=15&column=6" />
-</p>
-
-<!-- STATS ROW -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=janaiegeonu&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janaiegeonu&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" />
 </p>
 
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=janaiegeonu&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B,%20Y%5D" />
+  <img src="https://streak-stats.demolab.com?user=janaiegeonu&theme=tokyonight&hide_border=true&date_format=M%20j%5B,%20Y%5D" />
 </p>
 
 ---
