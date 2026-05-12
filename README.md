@@ -61,17 +61,10 @@ Currently focused on strengthening my expertise in:
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janaiegeonu&layout=compact&theme=github_dark&hide_border=true&border_radius=10" />
 </p>
 
-<!-- TROPHIES -->
-## 🏆 Trophy Cabinet
+## 🏆 Achievements & Milestones
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=gruvbox&no-frame=true&no-bg=true&margin-w=15&column=6" />
-</p>
-
-<!-- STATS ROW -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" />
 </p>
 
 ## 🔥 Contribution Streak
