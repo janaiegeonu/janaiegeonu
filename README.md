@@ -53,10 +53,12 @@ Currently focused on strengthening my expertise in:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=janaiegeonu" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=janaiegeonu&show_icons=true" />
+  
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janaiegeonu&layout=compact" />
 </p>
 
 ## 🏆 Achievements & Milestones
