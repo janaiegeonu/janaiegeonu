@@ -56,9 +56,17 @@ Currently focused on strengthening my expertise in:
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=janaiegeonu&show_icons=true&theme=github_dark&hide_border=true&border_radius=10" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=janaiegeonu&show_icons=true&theme=github_dark&hide_border=true&border_radius=12" />
   
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janaiegeonu&layout=compact&theme=github_dark&hide_border=true&border_radius=10" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janaiegeonu&layout=compact&theme=github_dark&hide_border=true&border_radius=12" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=janaiegeonu&theme=github-dark-blue&hide_border=true&border_radius=12" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=janaiegeonu&theme=github-dark&hide_border=true" />
 </p>
 
 ## 🏆 Achievements & Milestones
