@@ -1,9 +1,19 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=220&section=header&text=JANAI&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Backend-1f6feb?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Systems-0ea5e9?style=for-the-badge"/>
+
+  <a href="https://go.dev/doc/" target="_blank">
+    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+  </a>
+
+  <a href="https://en.wikipedia.org/wiki/Back_end_development" target="_blank">
+    <img src="https://img.shields.io/badge/Backend-1f6feb?style=for-the-badge"/>
+  </a>
+
+  <a href="https://en.wikipedia.org/wiki/Systems_programming" target="_blank">
+    <img src="https://img.shields.io/badge/Systems-0ea5e9?style=for-the-badge"/>
+  </a>
+
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=800&lines=Go+Developer;Backend+Systems+Learner;Building+Scalable+Applications;CLI+%26+Systems+Programming;Always+Learning+New+Things" />
@@ -79,14 +89,25 @@ Currently focused on strengthening my expertise in:
 ## 🏆 Achievements & Milestones
 
 
+## 🏆 Achievements
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=janaiegeonu&theme=algolia&no-frame=true&column=6" />
+  <a href="https://github.com/janaiegeonu?tab=repositories">
+    <img src="https://github-profile-trophy.vercel.app/?username=janaiegeonu&theme=algolia&no-frame=true&column=6" />
+  </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/janaiegeonu?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20All%20Projects-Click%20Here-blue?style=for-the-badge"/>
+  </a>
+</p>
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=janaiegeonu&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B,%20Y%5D" />
+  <a href="https://github.com/janaiegeonu" target="_blank">
+    <img src="https://streak-stats.demolab.com?user=janaiegeonu&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B,%20Y%5D" />
+  </a>
 </p>
 
 ---
