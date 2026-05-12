@@ -90,10 +90,9 @@ Currently focused on strengthening my expertise in:
 
 ## 🏆 Achievements & Milestones
 
-## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=janaiegeonu&theme=tokyonight&no-frame=true&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=janaiegeonu&theme=github-dark-blue&no-frame=true&column=6" />
 </p>
 
 ## 🔥 Contribution Streak
@@ -106,7 +105,7 @@ Currently focused on strengthening my expertise in:
 
 ## 📊 Activity Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=janaiegeonu&theme=github-dark"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=janaiegeonu&theme=github-dark-blue"/>
 
 ## 📚 Currently Learning
 
