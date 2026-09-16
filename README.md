@@ -33,7 +33,7 @@
 
 I'm a software developer passionate about building efficient, scalable, and maintainable software systems.
 
-My interests are centered around backend engineering, systems programming, command-line applications, and software architecture. I enjoy solving technical problems, exploring low-level concepts, and continuously improving the quality and performance of the applications I build.
+My interests are centered around backend engineering, systems programming, modern client-side and software architecture. I enjoy solving technical problems, exploring low-level concepts, and continuously improving the quality and performance of the applications I build.
 
 Currently focused on strengthening my expertise in:
 - Backend development
@@ -89,6 +89,10 @@ Currently focused on strengthening my expertise in:
 
 <a href="https://www.gnu.org/software/bash/" target="_blank">
   <img src="https://skillicons.dev/icons?i=bash" />
+</a>
+
+<a href="https://www.sqlite.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=sqlite" />
 </a>
 
 </p>
