@@ -62,38 +62,38 @@ Currently focused on strengthening my expertise in:
 
 <a href="https://go.dev/" target="_blank">
   <img src="https://skillicons.dev/icons?i=go" />
-</a>
+</a> &nspb
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
   <img src="https://skillicons.dev/icons?i=html" />
-</a>
+</a> &nspb
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
   <img src="https://skillicons.dev/icons?i=css" />
-</a>
+</a> &nspb
 
 <a href="https://git-scm.com/" target="_blank">
   <img src="https://skillicons.dev/icons?i=git" />
-</a>
+</a> &nspb
 
 <a href="https://www.linux.org/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linux" />
-</a>
+</a> &nspb
 
 <a href="https://code.visualstudio.com/" target="_blank">
   <img src="https://skillicons.dev/icons?i=vscode" />
-</a>
+</a> &nspb
 
 <a href="https://github.com/" target="_blank">
   <img src="https://skillicons.dev/icons?i=github" />
-</a>
+</a> &nspb
 
 <a href="https://www.gnu.org/software/bash/" target="_blank">
   <img src="https://skillicons.dev/icons?i=bash" />
-</a>
+</a> &nspb
 
 <a href="https://www.sqlite.org/" target="_blank">
   <img src="https://skillicons.dev/icons?i=sqlite" />
-</a>
+</a> &nspb
 
 <a href="https://www.javascript.com/" target="_blank">
   <img src="https://skillicons.dev/icons?i=javascript" />
