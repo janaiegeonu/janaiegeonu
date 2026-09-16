@@ -2,18 +2,6 @@
 
 <p align="center">
 
-  <a href="https://go.dev/doc/" target="_blank">
-    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-  </a>
-
-  <a href="https://en.wikipedia.org/wiki/Back_end_development" target="_blank">
-    <img src="https://img.shields.io/badge/Backend-1f6feb?style=for-the-badge"/>
-  </a>
-
-  <a href="https://en.wikipedia.org/wiki/Systems_programming" target="_blank">
-    <img src="https://img.shields.io/badge/Systems-0ea5e9?style=for-the-badge"/>
-  </a>
-
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=800&lines=Web+Developer;Backend+Systems+engineer;Modern+Frontend+Architecture;Building+Scalable+Applications;Problem+Solving+Projects;Always+Learning+New+Things" />
