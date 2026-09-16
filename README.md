@@ -16,7 +16,7 @@
 
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=800&lines=Web+Developer;Backend+Systems+Learner;Building+Scalable+Applications;CLI+%26+Systems+Programming;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=800&lines=Web+Developer;Backend+Systems+engineer;Building+Scalable+Applications;Problem+%26+Solving+Projects;Always+Learning+New+Things" />
 </p>
 
 
