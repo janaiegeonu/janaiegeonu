@@ -133,7 +133,7 @@ Currently focused on strengthening my expertise in:
 
 ## 🌐 Connect With Me
 
-  <p>
+  <p align="center">
   <a href="mailto:egeonujanai@gmail.com">
     <img src="https://img.shields.io/badge/Email-1f6feb?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
