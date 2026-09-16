@@ -95,6 +95,10 @@ Currently focused on strengthening my expertise in:
   <img src="https://skillicons.dev/icons?i=sqlite" />
 </a>
 
+<a href="https://www.javascript.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=javascript" />
+</a>
+
 </p>
 ---
 
