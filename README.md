@@ -54,6 +54,9 @@ Currently focused on strengthening my expertise in:
 <a href="https://python.org/" target="_blank">
   <img src="https://skillicons.dev/icons?i=python" />
 </a> &nbsp
+<a href="https://www.javascript.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=javascript" />
+</a> &nbsp
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
   <img src="https://skillicons.dev/icons?i=html" />
 </a> &nbsp
@@ -84,9 +87,7 @@ Currently focused on strengthening my expertise in:
 <a href="https://www.sqlite.org/" target="_blank">
   <img src="https://skillicons.dev/icons?i=sqlite" />
 </a> &nbsp
-<a href="https://www.javascript.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=javascript" />
-</a>
+
 
 </p>
 ---
