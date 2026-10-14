@@ -35,7 +35,7 @@ Currently focused on strengthening my expertise in:
 
 ## 🚀 Current Focus
 
-- Building practical projects with Go
+- Building practical projects with Go and Python
 - Exploring concurrency and parallel execution
 - Improving debugging and problem-solving skills
 - Learning scalable software design patterns
