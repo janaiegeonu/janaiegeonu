@@ -97,13 +97,13 @@ Currently focused on strengthening my expertise in:
 ## 🏆 Achievements
 
 <p align="center">
-  <a href="https://github.com/janaiegeonu?tab=repositories">
+  <a href="https://github.com/janaiegeonu?tab=repositories" target="_blank">
     <img src="https://github-profile-trophy.vercel.app/?username=janaiegeonu&theme=algolia&no-frame=true&column=6" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/janaiegeonu?tab=repositories">
+  <a href="https://github.com/janaiegeonu?tab=repositories" target="_blank">
     <img src="https://img.shields.io/badge/View%20All%20Projects-Click%20Here-blue?style=for-the-badge"/>
   </a>
 </p>
