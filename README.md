@@ -26,7 +26,7 @@ My interests are centered around backend engineering, systems programming, moder
 Currently focused on strengthening my expertise in:
 - Backend development
 - Concurrent programming
-- System design fundamentals
+- System design
 - Performance optimization
 - Clean architecture & maintainable code
 - Modern application development
