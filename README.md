@@ -21,7 +21,7 @@
 
 I'm a software developer passionate about building efficient, scalable, and maintainable software systems.
 
-My interests are centered around backend engineering, systems programming, modern client-side and software architecture. I enjoy solving technical problems, exploring low-level concepts, and continuously improving the quality and performance of the applications I build.
+My interests are centered around backend engineering, systems programming, modern client-side and software architecture. I enjoy solving technical problems, exploring concepts, and continuously improving the quality and performance of the applications I build.
 
 Currently focused on strengthening my expertise in:
 - Backend development
