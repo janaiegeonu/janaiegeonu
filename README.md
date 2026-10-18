@@ -28,7 +28,7 @@ Currently focused on strengthening my expertise in:
 - Concurrent programming
 - System design
 - Performance optimization
-- Clean architecture & maintainable code
+- Clean architecture flow & maintainable code
 - Modern application development
 
 ---
@@ -125,7 +125,7 @@ Currently focused on strengthening my expertise in:
 ## 📚 Currently Learning
 
 - Concurrent system design
-- Backend architecture
+- Solid Backend architecture
 - Performance optimization in Go
 - Advanced algorithms & data structures
 - Scalable application development
