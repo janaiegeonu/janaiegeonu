@@ -40,7 +40,7 @@ Currently focused on strengthening my expertise in:
 - Improving debugging and problem-solving skills
 - Learning scalable software design patterns
 - Writing cleaner and more optimized code
-- Developing professional-grade applications
+- Developing professional grade applications
 
 ---
 
