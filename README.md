@@ -30,6 +30,10 @@ Currently focused on strengthening my expertise in:
 - Performance optimization
 - Clean architecture flow & maintainable code
 - Modern application development
+- Mobile applications 
+
+ 
+
 
 ---
 
