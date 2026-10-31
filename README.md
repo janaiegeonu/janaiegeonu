@@ -17,7 +17,7 @@
 
 ---
 
-# 👋 About Me
+# 👋 About Me janai
 
 I'm a software developer passionate about building efficient, scalable, and maintainable software systems.
 
